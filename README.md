@@ -26,11 +26,9 @@
 <h2> :mortar_board: Software Development Projects:</h2>
 - <b>Automatic Stock Market closing price alert </b> (NVDA) <br>
 - <b>Space Invasion Game</b>  (Pygame) <br>
-- <b> Convolutional Neural Network </b>
-  - [Decoding Art using Machine Learning]<br>
-  &nbsp; &nbsp;  (https://github.com/adrdatta97/CNN)<br>
-- <b> Machine Learning Project</b>
-  - [Recognition of handwritten digits: MNIST dataset]<br>
+- <b> Convolutional Neural Network </b> <br>
+&nbsp; &nbsp; <a href="https://github.com/adrdatta97/CNN">Decoding Art using Machine Learning</a>  <br>
+- <b> Machine Learning Project</b> [Recognition of handwritten digits: MNIST dataset]<br>
 
 
 <h2> 🤳 Connect with me:</h2>
