@@ -1,4 +1,7 @@
-# Hi, I'm **Adrika**! :woman:
+# Hi, I'm **Adrika**! <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/24524555/238178097-766d336d-b87d-44ba-807c-c51de2bc6b4d.gif" alt="Alt Text" width="40">
+
+
+
 
 
   <a href="https://www.qmul.ac.uk" target="_blank">
@@ -63,8 +66,6 @@
 </a>
 
 -->
-
-
 
 
 
