@@ -25,6 +25,7 @@
 - <b>Space Invasion Game</b>  (Pygame) <br>
 - <b> Convolutional Neural Network </b>
   - [Decoding Art using Machine Learning]<br>
+  (https://github.com/adrdatta97/CNN)<br>
 - <b> Machine Learning Project</b>
   - [Recognition of handwritten digits: MNIST dataset]<br>
 
