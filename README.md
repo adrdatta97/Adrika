@@ -24,7 +24,8 @@
 <br>
   
 <h2> :mortar_board: Software Development Projects:</h2>
-- <b>Automatic Stock Market closing price alert </b> (NVDA) <br>
+- <b>Stock Market Update</b> (AMZN) <br>
+&nbsp; &nbsp; <a href="https://github.com/adrdatta97/StockPriceAlert">Automated Email Notification for Stock Price Surpassing Investment Amount</a>  <br>
 - <b>Space Invasion Game</b>  (Pygame) <br>
 - <b> Convolutional Neural Network </b> <br>
 &nbsp; &nbsp; <a href="https://github.com/adrdatta97/CNN">Decoding Art using Machine Learning</a>  <br>
