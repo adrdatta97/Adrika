@@ -22,17 +22,6 @@
 <b>Ticketmaster - Event Programmer Specialist</b>
 
 <br>
-  
-<h2> :mortar_board: Software Development Projects:</h2>
-- <b>Stock Market Update</b> (AMZN) <br>
-&nbsp; &nbsp; <a href="https://github.com/adrdatta97/StockPriceAlert">Automated Email Notification for Stock Price Surpassing Investment Amount</a>  <br>
-- <b>Pygame</b><br>
-&nbsp; &nbsp; <a href="https://github.com/adrdatta97/PYGAME">Space Invasion Game</a>  <br>
-- <b> Convolutional Neural Network </b> <br>
-&nbsp; &nbsp; <a href="https://github.com/adrdatta97/CNN">Decoding Art using Machine Learning</a>  <br>
-- <b> Machine Learning Project</b> <br> 
-&nbsp; &nbsp; <a href="https://github.com/adrdatta97/MNIST">MNIST Dataset</a>  <br>
-
 
 <h2> 🤳 Connect with me:</h2>
 <a href="https://linkedin.com/in/adrikadatta" target="_blank" style="display: inline-flex"; align-items: "center";>
